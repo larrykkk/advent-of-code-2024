@@ -1,6 +1,5 @@
 {
   "name": "day1",
-  "type": "module",
   "version": "1.0.0",
   "description": "",
   "main": "day1.js",

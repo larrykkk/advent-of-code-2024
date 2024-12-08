@@ -1,0 +1,1 @@
+參考: https://github.com/kyleshevlin/advent-of-code-2024/blob/main/src/day-02/index.js#L13
